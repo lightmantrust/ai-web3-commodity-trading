@@ -1,0 +1,19 @@
+commodity-prime-platform/
+├── .github/                   # GitHub workflows and issue templates
+├── docs/                      # Documentation
+├── src/                       # Source code
+│   ├── components/            # Reusable UI components
+│   ├── pages/                 # Application pages
+│   ├── lib/                   # Utility libraries
+│   ├── hooks/                 # Custom React hooks
+│   ├── styles/                # Global styles
+│   └── types/                 # TypeScript type definitions
+├── public/                    # Static assets
+├── tests/                     # Test files
+├── .env.example               # Environment variables template
+├── .gitignore                # Git ignore rules
+├── package.json              # Dependencies and scripts
+├── tailwind.config.js        # Tailwind configuration
+├── tsconfig.json             # TypeScript configuration
+├── next.config.js            # Next.js configuration
+└── README.md                 # Project documentation
